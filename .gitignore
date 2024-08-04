@@ -1,0 +1,14 @@
+# Rust
+rust/target/
+**/*.rs.bk
+
+# Android
+android/.gradle
+android/local.properties
+android/.idea/
+android/build/
+android/app/build/
+*.iml
+
+# General
+.DS_Store
